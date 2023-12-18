@@ -1,0 +1,3 @@
+COPY M T
+LINK 800
+KILL
